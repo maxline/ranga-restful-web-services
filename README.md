@@ -7,3 +7,14 @@ Step 04 (20). What's happening in the background
 - Front Controller pattern: Mapping servlets: dispatcherServlet urls=[/], h2Console urls=[/h2-console/*]
 - Generate JSON: ResController = Controller + Response body (JacksonHttpMessageConvertersConfiguration)
 - ErrorMvcAutoConfiguration (`<h1>Whitelabel Error Page</h1>`)
+
+Step 08 (25). Social Media Application (users and posts)<br>
+https://github.com/in28minutes/spring-microservices-v3/blob/main/02.restful-web-services/01-step-by-step-changes/v2.md#step-08
+
+- GET http://localhost:8080/users
+- GET http://localhost:8080/users/3
+- POST http://localhost:8080/users
+
+Talent Api Tester
+
+Step 10 (27). Add response status and location
