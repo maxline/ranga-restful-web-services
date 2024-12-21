@@ -22,11 +22,14 @@ Step 11 (29). Add error handling.<br>
 @ResponseStatus(code = HttpStatus.NOT_FOUND)
 UserNotFoundException
 
-Step 12. (31)
+Step 12 (31)
 Code Changes for the Step - https://github.com/in28minutes/spring-microservices-v3/blob/main/02.restful-web-services/01-step-by-step-changes/v2.md#step-12
 ResponseEntityExceptionHandler::handleException()
 
-Step 14. (33). Add validation
+Step 14 (33). Add validation
 @Valid, @Size, @Past
 handleMethodArgumentNotValid()
 ex.getFieldError().getDefaultMessage()
+
+Step 17 (37). Swagger documentation (Open Api)
+http://localhost:8080/swagger-ui/index.html
