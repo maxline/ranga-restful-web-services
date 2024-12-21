@@ -26,3 +26,7 @@ Step 12. (31)
 Code Changes for the Step - https://github.com/in28minutes/spring-microservices-v3/blob/main/02.restful-web-services/01-step-by-step-changes/v2.md#step-12
 ResponseEntityExceptionHandler::handleException()
 
+Step 14. (33). Add validation
+@Valid, @Size, @Past
+handleMethodArgumentNotValid()
+ex.getFieldError().getDefaultMessage()
