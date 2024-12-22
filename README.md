@@ -48,4 +48,6 @@ Step 20-21 (41-42). Versioning
 - Parameters: http://localhost:8080/person?version=1
 - Headers: "/person/header", headers = "X-API-VERSION=2"
 - Media type: "/person/accept", produces = "application/vnd.company.app-v2+json"
-   
+
+Step 22 (43). Hateoas
+- "_links": "all-users"
