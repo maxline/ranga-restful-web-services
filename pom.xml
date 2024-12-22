@@ -78,6 +78,11 @@
             <version>2.18.2</version>
         </dependency>
         -->
+        <!-- Step 25 (46). Actuator-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
     </dependencies>
 
     <build>

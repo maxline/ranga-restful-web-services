@@ -55,3 +55,10 @@ Step 22 (43). Hateoas
 Step 23-24 (44-45). Filtering
 - Static: @JsonIgnore, @JsonIgnoreProperty - bean annotation
 - Dynamic: MappingJacksonValue, SimpleBeanPropertyFilter, SimpleFilterProvider(), mappingJacksonValue.setFilters(filters);
+
+Step 25 (46). Spring Boot Actuator
+- http://localhost:8080/actuator
+- http://localhost:8080/actuator/health
+- management.endpoints.web.exposure.include=*
+- http://localhost:8080/actuator/beans
+- http://localhost:8080/actuator/metrics
