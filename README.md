@@ -42,3 +42,10 @@ Step 18 (38). Content negotiation
 Step 19 (39). Internationalization
 - messages.properties, MessageSource
 - Accept-Language=fr
+
+Step 20-21 (41-42). Versioning
+- URI: http://localhost:8080/v2/person
+- Parameters: http://localhost:8080/person?version=1
+- Headers: "/person/header", headers = "X-API-VERSION=2"
+- Media type: "/person/accept", produces = "application/vnd.company.app-v2+json"
+   
