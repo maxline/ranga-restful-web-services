@@ -15,7 +15,7 @@ https://github.com/in28minutes/spring-microservices-v3/blob/main/02.restful-web-
 - GET http://localhost:8080/users/3
 - POST http://localhost:8080/users
 
-Talent Api Tester
+Talend Api Tester
 
 Step 10 (27). Add response status and location
 
@@ -51,3 +51,7 @@ Step 20-21 (41-42). Versioning
 
 Step 22 (43). Hateoas
 - "_links": "all-users"
+
+Step 23-24 (44-45). Filtering
+- Static: @JsonIgnore, @JsonIgnoreProperty - bean annotation
+- Dynamic: MappingJacksonValue, SimpleBeanPropertyFilter, SimpleFilterProvider(), mappingJacksonValue.setFilters(filters);
