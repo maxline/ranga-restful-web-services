@@ -62,3 +62,6 @@ Step 25 (46). Spring Boot Actuator
 - management.endpoints.web.exposure.include=*
 - http://localhost:8080/actuator/beans
 - http://localhost:8080/actuator/metrics
+
+Step 26 (47). HAL
+http://localhost:8080/explorer/index.html#
