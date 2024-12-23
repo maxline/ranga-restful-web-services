@@ -65,3 +65,9 @@ Step 25 (46). Spring Boot Actuator
 
 Step 26 (47). HAL
 http://localhost:8080/explorer/index.html#
+
+Step 28 (51). Creating user entity
+- @Entity, @Id, @GeneratedValue
+- spring.datasource.url=jdbc:h2:mem:testdb
+- spring.jpa.defer-datasource-initialization=true
+- data.sql
