@@ -75,3 +75,5 @@ Step 28 (51). Creating user entity
 Step 29 (52). Enhancing REST API connect to H2 by using JPA
 
 Step 30 (53). Create Post entity with many to one relationship with User entity
+
+Step 32 (55). Implement Api for getting and creating a posts 
