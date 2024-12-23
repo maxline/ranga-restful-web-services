@@ -71,3 +71,5 @@ Step 28 (51). Creating user entity
 - spring.datasource.url=jdbc:h2:mem:testdb
 - spring.jpa.defer-datasource-initialization=true
 - data.sql
+
+Step 29 (52). Enhancing REST API connect to H2 by using JPA
