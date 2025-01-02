@@ -88,8 +88,10 @@ $ docker run --detach
 --publish 3306:3306 
 mysql:8-oracle
 
-$ docker ps -a
-% docker container ls      
+## Step 36-37 (62-3). Security intro
+- Console: Using generated security password: 2f9f3c27-f53e-4f67-8358-fc9562171e1e
 
-Useful SQL commands
-- see at mysql.doc.md
+- SecurityFilterChain   // CSRF -> POST, PUT; 
+```
+http.csrf().disable();
+```
