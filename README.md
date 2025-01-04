@@ -8,6 +8,11 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+### Step 08 (85). Configuring profiles for limits service to the spring cloud server
+- spring.cloud.config.profile=qa
+- The following 1 profile is active: "qa"
+- http://localhost:8080/limits shows values for "qa" profile
+
 ### Step 07 (83). Connect limits service to the spring cloud server
 - spring.cloud.config.server.git.uri=file://${user.dir}/git-localconfig-repo
 
