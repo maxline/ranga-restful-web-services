@@ -6,6 +6,7 @@
     <modules>
         <module>limits-service</module>
         <module>restful-web-services</module>
+        <module>spring-cloud-config-server</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -1,9 +1,5 @@
-
-
 Standardization of Ports
 We will be using following ports for running our microservices and components. Copy them and have them handy as we go further in the course!
-
-
 
 1. Limits Microservice
    Ports: 8080, 8081, etc.
