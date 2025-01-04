@@ -2,7 +2,15 @@
 From the course Master Microservice with Spring Boot and Spring Cloud  
 https://globallogic.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/32398358#content
 
+Table of content<br>
+[Section 3: Restful web services](#section-3-restful-web-services-with-spring-boot-and-spring-cloud)
+[Section 5: Microservices with Spring Cloud](#section-5-microservices-with-spring-cloud)
+
+
 ## Section 5: Microservices with Spring Cloud
+
+### Step 04 (78). Setting up Limits microservice
+- Ports standartization: see the [standartization_ports.md](/standartization_ports) standartization_ports.md
 
 ### Step 01-03 (74-77). Setting up Limits microservice
 - http://localhost:8080/limits
