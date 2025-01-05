@@ -8,6 +8,9 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+### Step 13 (92). Configure JPA, initialization H2 database
+- http://localhost:8000/h2-console/
+
 ### Step 11 (90). Create a simple currency exchange service
 - VM options -Dserver.port=8001 overrides application.properties server.port=8000
 - http://localhost:8000/currency-exchange/from/USD/to/INR
