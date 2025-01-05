@@ -8,6 +8,10 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+### Step 16 (98). Creating a service for currency conversion
+
+### Step 14 (95). Creating a JPA repository
+
 ### Step 13 (92). Configure JPA, initialization H2 database
 - http://localhost:8000/h2-console/
 
