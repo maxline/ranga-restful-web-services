@@ -8,6 +8,8 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+### Step 17 (99). Invoking Currency Exchange from Currency Conversion Microservice
+
 ### Step 16 (98). Creating a service for currency conversion
 
 ### Step 14 (95). Creating a JPA repository
