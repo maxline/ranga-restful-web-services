@@ -8,6 +8,11 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+### Step 11 (90). Create a simple currency exchange service
+- VM options -Dserver.port=8001 overrides application.properties server.port=8000
+- http://localhost:8000/currency-exchange/from/USD/to/INR
+- http://localhost:8001/currency-exchange/from/USD/to/INR
+
 ### Step 08 (85). Configuring profiles for limits service to the spring cloud server
 - spring.cloud.config.profile=qa
 - The following 1 profile is active: "qa"
