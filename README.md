@@ -8,7 +8,12 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+### Step 18 (100). Using Feign REST Client for Service Invocation
+- Helps to call rest API
+- Load balancing in future
+
 ### Step 17 (99). Invoking Currency Exchange from Currency Conversion Microservice
+- http://localhost:8100/currency-conversion/from/USD/to/PLN/quantity/50
 
 ### Step 16 (98). Creating a service for currency conversion
 
