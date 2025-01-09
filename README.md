@@ -8,6 +8,19 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+
+### Step 22 (106) - Load Balancing with Eureka, Feign & Spring Cloud LoadBalance
+- load balancing example, call the next url several times
+- http://localhost:8100/currency-conversion-feign/from/USD/to/UAH/quantity/10
+- and see that "environment" switches between 8000 and 8001
+- spring-cloud-loadbalancer can be found in spring-cloud-starter-openfeign using dependency hierarchy test
+
+### Step 20 (103). Connect Currency Conversion & Currency Exchange Microservices
+
+### Step 19 (101)  Understand Naming Server and Setting up Eureka Naming Server
+- http://localhost:8761/ Eureka Server
+- CURRENCY-CONVERSION Status: UP(1) - KRK1-LDL-P30280.synapse.com:currency-conversion:8100
+
 ### Step 18 (100). Using Feign REST Client for Service Invocation
 - Helps to call rest API
 - Load balancing in future
