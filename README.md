@@ -8,6 +8,14 @@ Table of content<br>
 
 ## Section 5: Microservices with Spring Cloud
 
+### Step 24 (111). Exploring Routes with Spring Cloud Gateway
+Final
+
+- http://localhost:8765/currency-exchange/from/USD/to/INR
+- http://localhost:8765/currency-conversion/from/USD/to/INR/quantity/10
+- http://localhost:8765/currency-conversion-feign/from/USD/to/INR/quantity/10
+- http://localhost:8765/currency-conversion-new/from/USD/to/INR/quantity/10
+
 ### Step 23 (109). Enabling Discovery Locator with Eureka for Spring Cloud Gateway
 
 Initial
